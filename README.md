@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m currently working on DevOps automation and cloud infrastructure  <br>I’m looking to collaborate on DevOps, Cloud, and CI/CD projects  <br>I’m looking for help with advanced Kubernetes and cloud optimization  <br>I’m currently learning Kubernetes, Terraform, and cloud-native tools  <br>Ask me about DevOps, AWS, Docker, CI/CD pipelines, and Linux  <br>Fun fact: I automate tasks so I don’t have to repeat them 😄<br>
+#  About Me:
+I’m currently working on DevOps automation and cloud infrastructure  <br>I’m looking to collaborate on DevOps, Cloud, and CI/CD projects  <br>I’m looking for help with advanced Kubernetes and cloud optimization  <br>I’m currently learning Kubernetes, Terraform, and cloud-native tools  <br>Ask me about DevOps, AWS, Docker, CI/CD pipelines, and Linux  <br>Fun fact: I automate tasks so I don’t have to repeat them <br>
 
 
 ## 🌐 Socials:
